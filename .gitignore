@@ -1,4 +1,7 @@
+# Ignore files
 *.db
 *.log
+
+# Ignore path
 target/
 bin/
